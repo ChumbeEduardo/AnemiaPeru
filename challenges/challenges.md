@@ -1,7 +1,7 @@
 ---
-layout: instructor
+layout: Integrantes
 ---
-## DESAFÍO
+## INTEGRANTES DEL PROYECTO
 
 * * *
 
