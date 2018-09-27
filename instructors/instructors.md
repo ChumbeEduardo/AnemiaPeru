@@ -1,7 +1,7 @@
 ---
 layout: instructor
 ---
-### Luis Peña Mendoza
+### Eduardo Chumbe
 ![Alt text](/instructors/luis_pena.jpg){:height="140px" width="140px"}
 
 *e-mail | luis.penha@upch.pe*
