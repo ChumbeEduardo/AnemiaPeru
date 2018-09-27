@@ -1,5 +1,5 @@
 ---
-layout: Integrantes
+layout: instructor
 ---
 ## INTEGRANTES DEL PROYECTO
 
